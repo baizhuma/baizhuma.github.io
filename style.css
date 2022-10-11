@@ -5,8 +5,7 @@ html, body {
     margin: 0;
 }
 .wrapper {
-    color: #e5e;
-    font-family: 'Roboto', sans-serif;
+    font-family: "Times New Roman", Times, serif;
     width: 100%;
     height: 100vh;
     overflow: hidden;
@@ -71,12 +70,9 @@ html, body {
         height: unset !important;
     }
     .content {
-        grid-row: 1/1;
+        grid-row: 3/3;
     }
     h2, p {
         margin-top: 0;
     }
-}
-@media screen and (max-width: 420px) {
-
 }
