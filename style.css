@@ -70,7 +70,7 @@ html, body {
         height: unset !important;
     }
     .content {
-        grid-row: 3/3;
+        grid-row: 2/2;
     }
     h2, p {
         margin-top: 0;
