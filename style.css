@@ -60,6 +60,7 @@ html, body {
     .wrapper__img1 {
         overflow: hidden;
         height: unset !important;
+        grid-row: 3/3;
     }
     .wrapper__img1 img,
     .wrapper__img2 img {
